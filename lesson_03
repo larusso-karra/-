@@ -1,0 +1,9 @@
+<script>start("/Users/karina/Work/calculator_l1/дз/lesson_03/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("address.py","address.py",0,333,"333 B",1741339398,"07.03.2025, 13:23:18");</script>
+<script>addRow("lesson_3_task_1.py","lesson_3_task_1.py",0,301,"301 B",1741339533,"07.03.2025, 13:25:33");</script>
+<script>addRow("lesson_3_task_2.py","lesson_3_task_2.py",0,604,"604 B",1741339543,"07.03.2025, 13:25:43");</script>
+<script>addRow("lesson_3_task_3.py","lesson_3_task_3.py",0,956,"956 B",1741339556,"07.03.2025, 13:25:56");</script>
+<script>addRow("mailing.py","mailing.py",0,385,"385 B",1741339573,"07.03.2025, 13:26:13");</script>
+<script>addRow("smartphone.py","smartphone.py",0,268,"268 B",1741339582,"07.03.2025, 13:26:22");</script>
+<script>addRow("user.py","user.py",0,578,"578 B",1741339593,"07.03.2025, 13:26:33");</script>

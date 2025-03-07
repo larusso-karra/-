@@ -1,0 +1,6 @@
+<script>start("/Users/karina/Work/calculator_l1/дз/lesson_04/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("defects.txt","defects.txt",0,957,"957 B",1741339728,"07.03.2025, 13:28:48");</script>
+<script>addRow("pytest.ini","pytest.ini",0,44,"44 B",1741339751,"07.03.2025, 13:29:11");</script>
+<script>addRow("StringUtils.py","StringUtils.py",0,5078,"5.0 kB",1741339705,"07.03.2025, 13:28:25");</script>
+<script>addRow("test_string_utils.py","test_string_utils.py",0,3625,"3.5 kB",1741339781,"07.03.2025, 13:29:41");</script>
